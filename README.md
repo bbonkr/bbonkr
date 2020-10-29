@@ -1,5 +1,7 @@
 안녕하세요. Hello! Hola! 👋
 
-![](https://komarev.com/ghpvc/?username=bbonkr&color=orange)
+![Views](https://komarev.com/ghpvc/?username=bbonkr&color=orange)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbonkr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=bbonkr&show_icons=true&theme=radical)
+
+![Top 10 Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bbonkr&langs_count=10)
