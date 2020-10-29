@@ -1,7 +1,5 @@
 안녕하세요. Hello! Hola! 👋
 
-Software Developer
-
 ![Views](https://komarev.com/ghpvc/?username=bbonkr&color=orange)
 
 ## Skills
