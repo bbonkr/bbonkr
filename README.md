@@ -16,4 +16,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bbonkr&show_icons=true&theme=darcula)
 
-![Top 10 Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bbonkr&langs_count=5&layout=compact)
+![Top 10 Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bbonkr&langs_count=10&layout=compact&exclude_repo=uptime,bbonkr.github.io,blog,hexo-theme-tranquilpeak,jekyll-bootstrap,Dual-scale-D3-Bar-Chart,ihover,morris.js,NLog.Web,jellyfin,IdentityServer4.Admin,metrics,wordpress-export-to-markdown,react-nodebird,Flutter-Dribbble-Challenge,ytdx,YoutubeExtractor,hexo-theme-tranquilpeak,flexy,Hacker,hexo-theme-chiangmai,react-quickly,Xiaomi_Kernel_OpenSource,IdentityServer4.Samples,hexo-github,Androidstudio3,coding-night-live,and_node,docker-htpasswd,CrossChat-Xamarin.Forms,m2mqtt,gnatmq,jekyll-bootstrap,haroopress,jstree,flask,spring-framework,gureum)
